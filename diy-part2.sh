@@ -15,3 +15,4 @@
 
 ./scripts/feeds install -af
 git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
+git clone https://github.com/SunBK201/UA3F.git package/UA3F
