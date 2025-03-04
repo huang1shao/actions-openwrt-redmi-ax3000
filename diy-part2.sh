@@ -14,3 +14,4 @@
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 
 ./scripts/feeds install -af
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
